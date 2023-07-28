@@ -17,14 +17,15 @@ write your own printf function
 
 ## Requirements
 ## General
-    * compile using gcc using option  -Wall -Werror -Wextra -pedantic -stg=gnu89
-    * file end with a newline
-    * this README.md
-    * use betty style
-    * no glbal variables
-    * not more than 5 functions per file
-    * all prototypes in main.h
-    * _putchar not provided
+
+   * compile using gcc using option  -Wall -Werror -Wextra -pedantic -stg=gnu89
+   * file end with a newline
+   * this README.md
+   * use betty style
+   * no glbal variables
+   * not more than 5 functions per file
+   * all prototypes in main.h
+   * _putchar not provided
 
 # GitHub
 there should be one project repo per group
